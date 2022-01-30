@@ -1,5 +1,4 @@
-# attribute_based_interpretation
-Generating attribute-based interpretations from medical images
+# Generating attribute-based interpretations from medical images using VAEs
 
 
 ### Training
