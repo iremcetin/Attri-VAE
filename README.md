@@ -1,4 +1,4 @@
-# Generating attribute-based interpretations from medical images using VAEs
+# Attri-VAE: Generating attribute-based interpretations from medical images using VAEs
 
 
 ### Training
