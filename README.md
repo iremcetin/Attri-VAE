@@ -12,5 +12,8 @@ The trained network offers two use cases: (a) shows latent space manipulation an
 #### Architectural Details of Attri-VAE
 
 <img src="https://user-images.githubusercontent.com/26603738/158028398-ddebe493-1e85-4d0f-bf96-0ee7b69cd941.png" width="800" height="400">
+Architectural details of the proposed Attri-VAE. Conv: convolutional layer, Trconv : transposed convolutional layer,  BN: batch normalization,  fc: fully connected layer, ReLU: Rectified linear unit.
+
 
 <img src="https://user-images.githubusercontent.com/26603738/158028645-a2b3db86-f9fe-47e5-a7ae-9b5cb90a1105.PNG"  width="700" height="600">
+Conv3D: 3-dimensional convolutional layer, Trconv3D: 3-dimensional transposed convolutional layer, input: input channels, output: output channels, ks: kernel size, s: stride, pad: padding, BN: batch normalization, d: dropout probability, ReLU: Rectified linear unit.
