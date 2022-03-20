@@ -17,3 +17,8 @@ Architectural details of the proposed Attri-VAE. Conv: convolutional layer, Trco
 
 <img src="https://user-images.githubusercontent.com/26603738/158028645-a2b3db86-f9fe-47e5-a7ae-9b5cb90a1105.PNG"  width="700" height="600">
 Conv3D: 3-dimensional convolutional layer, Trconv3D: 3-dimensional transposed convolutional layer, input: input channels, output: output channels, ks: kernel size, s: stride, pad: padding, BN: batch normalization, d: dropout probability, ReLU: Rectified linear unit.
+
+
+This repository contains the source for training and evaluation of the proposed Attri-VAEmodel. 
+
+To access the paper please refer [here](https://arxiv.com) and please cite as if you are using the code in this repository in any manner.
