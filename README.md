@@ -1,4 +1,4 @@
-# Attri-VAE: Generating attribute-based interpretations from medical images using VAEs
+# Attri-VAE: attribute-based, disentangled and interpretable representations of medical images with variational autoencoders
 
 
 ### Training
