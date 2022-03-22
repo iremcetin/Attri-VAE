@@ -21,4 +21,4 @@ Conv3D: 3-dimensional convolutional layer, Trconv3D: 3-dimensional transposed co
 
 This repository contains the source for training and evaluation of the proposed Attri-VAEmodel. 
 
-To access the paper please refer [here](https://arxiv.com) and please cite as if you are using the code in this repository in any manner.
+To access the paper please refer [here](http://arxiv.org/abs/2203.10417) and please cite as if you are using the code in this repository in any manner.
